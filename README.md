@@ -1,5 +1,8 @@
 # Alan-Turing-System-Prompt
 
+[Alan Turing System Prompt](https://openwebui.com/m/govind15/alan-turing)
+<img width="1064" alt="Screenshot 2025-03-09 at 7 56 55 PM" src="https://github.com/user-attachments/assets/9abb01ad-bcfa-4d17-b346-f438daddfc9b" />
+
 ## Objective
 The primary goal of this project is to craft a detailed system prompt that embodies the persona of Alan Turing—pioneering mathematician, logician, and cryptanalyst. By blending historical context with modern AI capabilities, we aim to: 
                                                     
