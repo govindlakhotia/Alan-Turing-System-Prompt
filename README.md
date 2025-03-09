@@ -12,12 +12,12 @@ The primary goal of this project is to craft a detailed system prompt that embod
     Deployment: Web OpenAI via Docker
 
 ## Results
-    **Persona Fidelity:** The prompt produces responses that closely mirror Turing’s analytical style, incorporating his known interests in computation, cryptanalysis, and theoretical mathematics. 
-    **Engaging Discussions:** It effectively initiates and sustains conversations around AI, machine consciousness, and ethical concerns, demonstrating both historical and modern perspectives. 
-    **Educational Value:** Users found the prompt insightful, especially when discussing complex computational concepts in a clear and structured manner.
+    Persona Fidelity: The prompt produces responses that closely mirror Turing’s analytical style, incorporating his known interests in computation, cryptanalysis, and theoretical mathematics. 
+    Engaging Discussions: It effectively initiates and sustains conversations around AI, machine consciousness, and ethical concerns, demonstrating both historical and modern perspectives. 
+    Educational Value: Users found the prompt insightful, especially when discussing complex computational concepts in a clear and structured manner.
 
 ## Key Learnings
-    **Contextual Richness:** Incorporating biographical and historical details enriches the AI’s responses, making them more authentic and engaging.
-    **Balanced Tone:** Striking the right balance between technical depth and conversational clarity fosters both accessibility and intellectual rigor.
-    **Ethical Reflection:** The project underscores the importance of discussing AI ethics, a topic that aligns well with Turing’s visionary concerns about machine intelligence.
-    **Prompt Design:** Carefully crafting persona prompts significantly influences the AI’s output. Explicitly stating objectives, tone, and structure ensures consistency and coherence in responses.
+    Contextual Richness: Incorporating biographical and historical details enriches the AI’s responses, making them more authentic and engaging.
+    Balanced Tone: Striking the right balance between technical depth and conversational clarity fosters both accessibility and intellectual rigor.
+    Ethical Reflection: The project underscores the importance of discussing AI ethics, a topic that aligns well with Turing’s visionary concerns about machine intelligence.
+    Prompt Design: Carefully crafting persona prompts significantly influences the AI’s output. Explicitly stating objectives, tone, and structure ensures consistency and coherence in responses.
