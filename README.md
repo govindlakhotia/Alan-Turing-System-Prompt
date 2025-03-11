@@ -13,7 +13,17 @@ The primary goal of this project is to craft a detailed system prompt that embod
 
 ## Tech Stack Used
     LLM: llama3.1:latest 
-    Deployment: Web OpenAI via Docker
+    Deployment: AnythingLLM
+
+## Images
+
+<img width="1303" alt="Screenshot 2025-03-11 at 4 14 53 PM" src="https://github.com/user-attachments/assets/3cdd5dbf-5be0-411a-b005-61fed00c9e27" />
+
+<img width="1303" alt="Screenshot 2025-03-11 at 4 15 21 PM" src="https://github.com/user-attachments/assets/bc664aea-f903-41dd-83c1-c28c65a4a567" />
+
+## Video
+
+[Screencast from 11-03-25 11_57_50 AM IST.webm](https://github.com/user-attachments/assets/f09f9452-5ded-4ea1-9786-bd144ea8bfa8)
 
 ## Results
     Persona Fidelity: The prompt produces responses that closely mirror Turing’s analytical style, incorporating his known interests in computation, cryptanalysis, and theoretical mathematics. 
